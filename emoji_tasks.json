@@ -1,0 +1,33 @@
+[
+
+  {
+    "emoji": "🍏🍎",
+    "answer_en": "apple",
+    "answer_ru": "яблоко",
+    "answer_zh": "苹果 Píngguǒ"
+  },
+  {
+    "emoji": "🥛🍼",
+    "answer_en": "milk",
+    "answer_ru": "молоко",
+    "answer_zh": "牛奶 Niúnǎi"
+  },
+  {
+    "emoji": "😹🐈🐈‍⬛",
+    "answer_en": "cat",
+    "answer_ru": "кошка",
+    "answer_zh": "猫 Māo"
+  },
+  {
+    "emoji": "🐶🐕🐕‍🦺🦮🐩",
+    "answer_en": "dog",
+    "answer_ru": "собака",
+    "answer_zh": "狗 Gǒu"
+  },
+  {
+    "emoji": "☀️🌞🌇🌅",
+    "answer_en": "sun",
+    "answer_ru": "солнце",
+    "answer_zh": "太阳 Tàiyáng"
+  }
+]
